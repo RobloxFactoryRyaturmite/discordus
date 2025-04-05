@@ -5,4 +5,4 @@
 ### Current Module: discordus.py
 #### This module will offer a **simpler** way, rather then using discord.py, extremely easy to use.
 
-## Docs: https://www.discordusdocs.github.io
+## Docs: [https://www.discordusdocs.github.io](https://discordusdocs.github.io/)
